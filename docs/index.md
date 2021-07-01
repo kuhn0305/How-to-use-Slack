@@ -11,13 +11,13 @@
 ## 1. 프로필 설정
 
 자신의 프로필 확인은 **[우측 상단 이미지 클릭 - 프로필 보기]**를 눌러서 확인할 수 있습니다.   
-![View Profile](..\assets\View Profile.png)
+![View Profile](assets\View Profile.png)
 
 **프로필 보기**를 누르면 우측 편에 자신의 프로필이 나오게 됩니다.  
-![Profile](..\assets\Profile.png)
+![Profile](assets\Profile.png)
 
 중앙에 **프로필 편집 **버튼을 누르면 프로필 편집 창이 나옵니다.  
-![Edit Profile](..\assets\Edit Profile.png)
+![Edit Profile](assets\Edit Profile.png)
 
 해당 창에서 성명과 표시 이름, 프로필 사진 등을 변경할 수 있습니다.  
 
@@ -51,12 +51,12 @@
 **멘션 기능**으로 담당 멤버에게 업무를 빠르게 전달하고, 본인이 전달받은 업무를 확인할 수 있습니다.
 
 **멘션 기능**은 **@**기호를 통해 사용할 수 있습니다. **@**을 입력하면 **멘션** 할 멤버의 목록을 선택할 수 있습니다. 
-![Mention](..\assets\Mention.png)
+![Mention](assets\Mention.png)
 
 멤버를 입력하거나 목록에서 클릭하면 색깔이 바뀌면서 멘션이 설정됩니다.
-![Mention2](..\assets\Mention2.png)
+![Mention2](assets\Mention2.png)
 
-![Mention3](..\assets\Mention3.png)
+![Mention3](assets\Mention3.png)
 모든 메시지에는 가능하면 모든 담당자를 멘션 해줍니다. 
 
 ## 3. 써진 글에 반응하기
@@ -72,9 +72,9 @@
 #### 알림 설정 방법
 
 1. 좌측 상단의 워크스페이스 이름을 누른 후 환경설정 버튼을 눌러 환경설정을 엽니다. *[Ctrl + 콤마]*로도 환경설정을 열 수 있습니다.
-![Open Config](..\assets\Open Config.png)
+![Open Config](assets\Open Config.png)
 2. 좌측 알림 탭을 선택해서 알림 관련 설정을 변경합니다.
-    ![Config](..\assets\Config.png)
+    ![Config](assets\Config.png)
 3. 선택할 항목
      1. **[내가 팔로우하는 스레드에 대한 댓글에 대한 알림 받기]** 체크
      2. **[내 키워드]**에 적절한 키워드(직무, 현재 진행 중인 프로젝트) 설정 <sub>예시) 개발, 기획, 디자인, 인터랙티브, 설치, 텍스처, 이미지 등</sub>
@@ -92,11 +92,11 @@
 #### 이모티콘 반응하는 방법
 
 1. 슬랙 메시지에 마우스를 올리면 메시지 우측 상단에 메시지 반응 툴이 나타납니다.
-   ![Message Tool](..\assets\Message Tool.png)
+   ![Message Tool](assets\Message Tool.png)
 2. 적절한 이모티콘을 선택하면 이모티콘으로 반응이 됩니다. 자신이 남긴 반응은 파란색으로 표시됩니다.
-   ![Emoji Response](..\assets\Emoji Response.png)
+   ![Emoji Response](assets\Emoji Response.png)
 3. 물론 여러 개도 남길 수 있습니다.
-   ![Emoji Multiple](..\assets\Emoji Multiple.png)
+   ![Emoji Multiple](assets\Emoji Multiple.png)
 
 ### 댓글 
 
@@ -110,12 +110,12 @@
 #### 댓글 사용 방법
 
 1. 이모티콘을 사용할 때와 마찬가지로 메시지에 마우스를 올려 반응 툴을 열고 스레드 댓글 아이콘을 누릅니다.
-   ![Reply Icon](..\assets\Reply Icon.png)
+   ![Reply Icon](assets\Reply Icon.png)
 2. 우측 화면에 댓글을 작성할 수 있는 화면이 나타납니다.
-   ![Reply](..\assets\Reply.png)
+   ![Reply](assets\Reply.png)
 3. 댓글을 작성하면 해당 글에 댓글이 나타납니다. 원래 메시지에도 댓글이 달려있음을 볼 수 있습니다.
-![Reply Message](..\assets\Reply Message.png)
-![Reply Min](..\assets\Reply Mini.png)
+![Reply Message](assets\Reply Message.png)
+![Reply Min](assets\Reply Mini.png)
 
 ## 4. 기타
 
@@ -127,13 +127,13 @@
 슬랙에는 메시지를 저장하는 기능이 있습니다.
 
 메시지에 마우스를 올려 반응 툴을 열면 **[저장된 항목에 추가]** 아이콘을 누를 수 있습니다.
-![Pin](..\assets\Pin.png)
+![Pin](assets\Pin.png)
 
 해당 버튼을 누르면 색깔이 바뀌면서 저장이 됩니다. 다시 누르면 해제됩니다.
-![Pinned](..\assets\Pinned.png)
+![Pinned](assets\Pinned.png)
 
 저장된 항목들은 좌측 사이드바의 **[저장된 항목]** 영역에서 확인할 수 있습니다.
-![Pinned Messages](..\assets\Pinned Messages.png)
+![Pinned Messages](assets\Pinned Messages.png)
 
 ---
 
